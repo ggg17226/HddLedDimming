@@ -1,0 +1,9 @@
+.cproject
+.mxproject
+.project
+cmake-build-debug
+cmake-build-release
+cmake-build-minsizerel
+.idea
+pcb/History
+pcb/__Previews
